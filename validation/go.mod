@@ -1,6 +1,6 @@
 module github.com/ethereum-optimism/superchain-registry/validation
 
-go 1.21
+go 1.24
 
 replace github.com/ethereum-optimism/superchain-registry/superchain => ../superchain
 
@@ -46,7 +46,7 @@ require (
 	github.com/gorilla/websocket v1.5.0 // indirect
 	github.com/holiman/bloomfilter/v2 v2.0.3 // indirect
 	github.com/holiman/uint256 v1.2.4 // indirect
-	github.com/klauspost/compress v1.17.2 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/mattn/go-runewidth v0.0.14 // indirect
